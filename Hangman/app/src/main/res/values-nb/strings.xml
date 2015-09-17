@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- All activities -->
+
+    <string name="app_name">Hangman</string>
+
+    <!-- Game Activity -->
+
+    <string name="wins">vunnet:</string>
+    <string name="losses">tapt:</string>
+    <string name="loseGame">Du tapte!</string>
+    <string name="winGame">Du vant!</string>
+    <string name="game">Tilbake til spillet</string>
+    <string name="allWordsPlayed">Alle ordene er brukt opp. Starter på nytt.</string>
+
+
+    <!-- Rules Activity -->
+
+    <string name="rules">Regler</string>
+    <string name="rulesList">Din oppgave er å gjette riktige bokstaver til ordet er løst. For hver gang du gjetter en bokstav som ikke finnes i ordet, er du et steg nærmere å bli en hengt man. Så vær tolmodig og smart, for du får bare gjette 7 ganger. Hvis du gjetter ordet før du blir hengt har du vunnet. Om du taper eller vinner vil det uansett dukke opp et nytt ord du skal gjette.</string>
+
+    <!-- Language Activity -->
+
+    <string name="language">Språk</string>
+    <string name="chooseLanguage">Velg språk</string>
+    <string name="norwegian">Norsk</string>
+    <string name="english">Engelsk</string>
+
+    <!--Exit -->
+    <string name="exit">Avslutt</string>
+
+</resources>
+
+

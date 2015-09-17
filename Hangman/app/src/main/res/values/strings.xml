@@ -1,0 +1,34 @@
+<resources>
+
+    <!-- All activities -->
+
+    <string name="app_name">Hangman</string>
+
+    <!-- Game Activity -->
+
+    <string name="wins">wins:</string>
+    <string name="losses">losses:</string>
+    <string name="loseGame">You lose!</string>
+    <string name="winGame">You win!</string>
+    <string name="game">Back to game</string>
+    <string name="allWordsPlayed">All words have been played. Starting over.</string>
+
+
+    <!-- Rules Activity -->
+
+    <string name="rules">Rules</string>
+    <string name="rulesList">Your task is to complete the word by guessing one letter at a time. For each time you guess a letter that doesn\'t exists in that word, you\'re one step closer becoming a hanged man. So be patient and smart, cause you only get to guess 7 times. If you guess the word within 7 guesses, then you won. Either if you win or lose, a new word will appear for you to guess.</string>
+
+    <!-- Language Activity -->
+
+    <string name="language">Language</string>
+    <string name="chooseLanguage">Choose language</string>
+    <string name="norwegian">Norwegian</string>
+    <string name="english">English</string>
+
+    <!--Exit -->
+    <string name="exit">Exit</string>
+
+
+</resources>
+

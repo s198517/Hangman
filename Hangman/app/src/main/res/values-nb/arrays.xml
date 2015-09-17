@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="words">
+        <item>KAFFE</item>
+        <item>IS</item>
+        <item>DATAMASKIN</item>
+        <item>STOL</item>
+        <item>JAKKE</item>
+        <item>VINDU</item>
+        <item>MATEMATIKK</item>
+        <item>ANDROID</item>
+        <item>LINUX</item>
+        <item>WINDOWS</item>
+        <item>OVN</item>
+        <item>DESIGN</item>
+    </string-array>
+</resources>

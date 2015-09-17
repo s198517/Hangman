@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/chooseLanguage"
+        android:textSize="@dimen/fontSizeHeadLine"
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginBottom="50dp"
+        android:textColor="@color/buttonsText"
+        android:onClick="changeLang"/>
+
+    <Button
+        android:id="@+id/norwegian"
+        android:layout_width="150dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:layout_height="wrap_content"
+        android:textColor="@color/buttonsText"
+        android:background="@color/buttons"
+        android:text="@string/norwegian"
+        android:layout_marginBottom="20dp" />
+
+    <Button
+        android:id="@+id/english"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@color/buttons"
+        android:textColor="@color/buttonsText"
+        android:text="@string/english" />
+
+</LinearLayout>
